@@ -1,2 +1,3 @@
 # Đồ án 1
-Máy chấm công
+Đỗ Lê Việt Hoàng - 20119314
+Trần Nguyễn Khánh Hoàng - 20119315
